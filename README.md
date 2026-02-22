@@ -1,6 +1,5 @@
 **Explainable AI (XAI) for Telecom: Quantifying Behavioral Drivers of Churn **
 
-
 **Project Overview **
 Customer churn is one of the most vital metrics for telecom companies. This project moves 
 beyond simple "black-box" predictions by utilizing Explainable AI (XAI). By combining 
